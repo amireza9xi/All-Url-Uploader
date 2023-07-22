@@ -21,19 +21,19 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6675632605:AAGrVk-2wS8sHXHHo6zgWR0VNwMl-8VtFgw"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "128702"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "bca43fdb76313516b49f65f851f76218"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001936612856"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
@@ -41,7 +41,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "ami7x_bot"
     }
   },
   "addons": [
